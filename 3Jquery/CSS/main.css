@@ -1,0 +1,13 @@
+.title1{
+    color:#018786;
+}
+
+.inputFields {
+    width: 25%;
+	height: 20px;
+	background: white;
+	border: 1px solid #018786;
+	border-radius: 8px;
+	color: #018786;
+	font-weight: 700;
+}
